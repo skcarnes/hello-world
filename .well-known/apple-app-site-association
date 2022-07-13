@@ -1,0 +1,53 @@
+{
+    "webcredentials": {
+        "apps": [
+            "X546NV5VBG.com.veteransunited.my",
+            "X546NV5VBG.com.veteransunited.my.uat",
+            "X546NV5VBG.com.veteransunited.my.dev",
+            "X546NV5VBG.com.veteransunited.my.dev-uat"
+        ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "X546NV5VBG.com.veteransunited.my",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "X546NV5VBG.com.veteransunited.my.uat",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "X546NV5VBG.com.veteransunited.my.dev",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "X546NV5VBG.com.veteransunited.my.dev-uat",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appIDs": [
+                    "X546NV5VBG.com.veteransunited.my",
+                    "X546NV5VBG.com.veteransunited.my.uat",
+                    "X546NV5VBG.com.veteransunited.my.dev",
+                    "X546NV5VBG.com.veteransunited.my.dev-uat"
+                ],
+                "components": [
+                    {
+                        "/": "/*",
+                        "comment": "Matches any URL whose path starts with /"
+                    }
+                ]
+            }
+        ]
+    }
+}
